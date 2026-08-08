@@ -29,7 +29,7 @@ GeoVision AI is a full-stack geospatial intelligence platform built for **HackPr
 
 ![GeoVision AI demo screenshot](./media/image.png)
 
-[![Watch the demo](./media/image.png)](./media/video.mp4)
+
 
 ### 🎥 Demo Video
 
